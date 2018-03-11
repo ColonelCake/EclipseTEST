@@ -50,5 +50,7 @@ public class BoyGirl{
 		System.out.println(NAME + " Is how old?");
 		gender = input.nextInt();
 		System.out.println(NAME+" is "+ gender + " years old!");
+	
+		System.out.println("What is " + NAME + "'s favorite movie? /n");
 	}
 }
